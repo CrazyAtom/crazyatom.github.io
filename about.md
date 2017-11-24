@@ -1,15 +1,26 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "CrazyAtom"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+## **테크니컬 얼리어답터, 코드 결벽증, 테크니컬 홍익인간**  
+최신 기술을 경험하는것을 게을리 하지 말고 코드는 최대한 간결하고 명료하게.  
+기술을 통한 즐거움과 유익함을 나누자.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
-
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
+## **기술스택**
+- **Programming Language / methodology**  
+*C, C++, Java, Objective-C, C#*  
+*(Scala, python, swift)*
+- **Framework / Library**  
+*Visual C++, MFC, C++ STL, C++ boost, OpenGL, TechSoft Hoops3D, OpenMP, TBB, Android SDK*  
+*(QT, Unreal Engine, Unity)*
+- **Tool / DevOps**  
+*Visual Studio, Android Studio, Xcode, Subversion, Git, GitHub, Bitbucket, Gradle, TortoiseSVN, SourceTree*  
+*(Docker)*
+- **Enviroment**  
+*Windows, mac OS*  
+*(AWS, Linux)*
+- **Etc**  
+*Mantis, Jira, Trello*
